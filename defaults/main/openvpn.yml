@@ -1,7 +1,7 @@
 # Defaults for openvpn
 
 # Networking
-openvpn_client_register_dns: true
+openvpn_client_register_dns: false
 openvpn_client_to_client: false
 openvpn_custom_dns: []
 openvpn_dns_servers: []
